@@ -1,0 +1,14 @@
+*.opensdf
+*.sdf
+*.suo
+*.vcxproj.user
+*.db
+*.opendb
+*.pfx
+desktop.ini
+.vs/
+ARM/
+AppPackages/
+Debug/
+Release/
+Generated Files/
